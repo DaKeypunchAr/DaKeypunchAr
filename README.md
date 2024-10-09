@@ -14,7 +14,7 @@
   Then switched to C++ learnt it. And now I love it. I know the feeling of control that I have with it. I've used OpenGL with GLFW and GLEW (well i'll use GLAD afterwards) to make many games
   and learn it overall. I can read assembly a little bit. Know how computer architecture works and yeah. Well doing C++ at the time of writing for 1 and a half year.
 
-  The only book I've read fully and in 1 day except my school books is "How do it know?" by "".
+  The only book I've read fully and in 1 day except my school books is "But how Do it Know?" by "J. Clark Scott".
 
   I'm sick with HLS (Header Love Syndrome). and yes. I PREFER TABS. *WHY The default thing is with spaces ahh. Am not rewriting*.
   
