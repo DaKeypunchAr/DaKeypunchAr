@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DaKeypunchAr (Real Name: Krishna Keshari)
   My name is Krishna Keshari. I live in Varanasi, Uttar Pradesh (U.P.), India.
   I'm 14 yo at the time of writing this but yeah am soon 15.
-  The thing you gotta remember about me is I'm a curious person. I have no goal in my life except keep learning.
-  Hence, You may call me goalless.
+  The thing you gotta remember about me is I'm a curious person. I have no goal in my life except keep learning (or UCG, a new philosophical goal made by me)
+  Hence, You may call me goalless. (or you may not)
 
   I've been programming since 11 (or 12 i don't remember quite. maybe i was near 12).
   My motivation was Scratch (The Visual Programming Language) that I found out in my Computer book (though It was not taught but I'm a curious person).
@@ -14,9 +14,9 @@
   Then switched to C++ learnt it. And now I love it. I know the feeling of control that I have with it. I've used OpenGL with GLFW and GLEW (well i'll use GLAD afterwards) to make many games
   and learn it overall. I can read assembly a little bit. Know how computer architecture works and yeah. Well doing C++ at the time of writing for 1 and a half year.
 
-  The only book I've read fully and in 1 day except my school books is "But how Do it Know?" by "J. Clark Scott".
+  The only book I've read fully and in 1 day except my school books is "But how Do it Know?" by "J. Clark Scott". (I've also read Book of Proofs and am reading Spivak Calculus)
 
-  I'm sick with HLS (Header Love Syndrome). and yes. I PREFER TABS. *WHY The default thing is with spaces ahh. Am not rewriting*.
+  I'm sick with HLS (Header Love Syndrome). and yes. I PREFER TABS. *WHY The default thing is with spaces ahh. Am not rewriting*. (This is past me. Ahh lmao. idk why was i like this)
   
 - 👀 I’m interested in Game Development, Graphics Programming, Computer Architecture and so on.
   I've done some Game Jams (yeah 2 of them and i'm not that good cz I don't use any game engines but use OpenGL and C++)
@@ -37,7 +37,7 @@
 - 😄 Pronouns: He/Him
   I'm a male homo sapien.
   
-- ⚡ Fun fact: I'm a Homo-Sapien. I am a Pokemon Fan.
+- ⚡ Fun fact: I'm a *Homo sapien*. I am a Pokemon Fan.
 <!---
 DaKeypunchAr/DaKeypunchAr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
